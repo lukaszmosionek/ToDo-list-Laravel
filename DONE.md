@@ -9,3 +9,10 @@ Zadanie:
 7. Pełna historia edycji notatek: Zrobione
 8. Integracja z Google Calendar: Zrobione
 
+<<<<<<< HEAD
+=======
+
+3. (Opcjonalnie) Konfiguracja w Dockerze -
+    Uruchomienie docker:
+        - docker compose up --build
+>>>>>>> 5cae189a0c106859f21961a5910e9b9038e42e4e
