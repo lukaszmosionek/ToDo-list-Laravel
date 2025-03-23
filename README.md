@@ -1,11 +1,22 @@
 Jak uruchomić:
 
+   Wersja php - 8.2
+
+ - composer install
+ - php artisan migrate
+ - php artisan serve
  - php artisan queue:work
 
+Uruchomienie docker:
+ 
+ - docker compose up --build
 
 Google Calendar:
 
 Kroki konfiguracji:
+
+ Instrukcja: https://github.com/spatie/laravel-google-calendar?tab=readme-ov-file
+
  1. Przejdź do Google Cloud Console.
  2. Utwórz nowy projekt (jeśli jeszcze go nie masz).
  3. Włącz API Google Calendar:

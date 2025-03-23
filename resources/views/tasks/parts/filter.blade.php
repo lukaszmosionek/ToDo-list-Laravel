@@ -18,7 +18,7 @@
 </form>
 
 
-<p id="date_error" class="mt-6 text-center text-red-500 mt-2 hidden">"Valid from" date cannot be later than "Valid to" date.</p>
+<p id="date_error" class="mt-6 text-center text-red-500 mt-2 hidden">{{ __('"Valid from" date cannot be later than "Valid to" date.') }}</p>
 
 <script>
 function validateDates() {

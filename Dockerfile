@@ -35,3 +35,7 @@ RUN composer install
 
 # Set permissions
 RUN chown -R www-data:www-data /var/www/html/storage /var/www/html/bootstrap/cache
+
+
+# COPY ./run.sh /tmp
+# ENTRYPOINT ["/tmp/run.sh"]

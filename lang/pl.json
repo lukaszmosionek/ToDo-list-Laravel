@@ -12,6 +12,7 @@
     "Due Date": "Data ważności",
     "Actions": "Akcje",
     "No tasks": "Brak zadań",
+    "Tasks": "Zadania",
 
 
     "low": "Niski",
@@ -39,7 +40,10 @@
     "Choose": "Wybierz",
     "Task edit history": "Historia edycji zadania",
     "Changed at": "Data zmiany",
-    "No history": "Brak histori"
+    "No history": "Brak histori",
+
+    "Are you sure you want to delete this item?": "Czy jestes pewnien ze chcesz usunąć to zadanie?",
+    "\"Valid from\" date cannot be later than \"Valid to\" date.": "Data „Ważne od” nie może być późniejsza niż data „Ważne do”."
 
 
 
