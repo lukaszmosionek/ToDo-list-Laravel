@@ -1,0 +1,46 @@
+{
+    "Name": "Nazwa",
+    "Status": "Status",
+    "Description": "Opis",
+    "Priority": "Priorytet",
+    "Add to Google Calendar": "Dodaj do Google Calendar",
+    "Task name": "Nazwa zadania",
+    "Valid to": "Ważne do",
+    "Valid from": "Ważne od",
+    "Task list": "Lista zadań",
+
+    "Due Date": "Data ważności",
+    "Actions": "Akcje",
+    "No tasks": "Brak zadań",
+
+
+    "low": "Niski",
+    "medium": "Średni",
+    "high": "Wysoki",
+
+    "to_do": "Do zrobienia",
+    "in_progress": "W trakcie",
+    "done": "Zrobione",
+
+
+    "Unauthorized": "Nie masz dostępu do tego zadania",
+
+    "Back": "Wróc",
+    "Add task": "Dodaj zadanie",
+    "Filter": "Filtruj",
+    "Reset": "Resetuj",
+    "Delete": "Usuń",
+    "Edit": "Edytuj",
+    "Edit task": "Edytuj zadanie",
+    "History": "Historia zmian",
+    "Share": "Udostępnij",
+    "Public link": "Publiczny link",
+    "Revoke link": "Unieważnij link",
+    "Choose": "Wybierz",
+    "Task edit history": "Historia edycji zadania",
+    "Changed at": "Data zmiany",
+    "No history": "Brak histori"
+
+
+
+}
