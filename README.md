@@ -1,15 +1,19 @@
 Jak uruchomić:
 
+    node --version: v22.12.0
+    npm --version: 10.9.0
+
+    - npm install
+    - npm run dev
+
    Wersja php - 8.2
 
+ - skopiuj .env.example do .env
  - composer install
  - php artisan migrate
+ - php artisan key:generate
  - php artisan serve
  - php artisan queue:work
-
-Uruchomienie docker:
- 
- - docker compose up --build
 
 Google Calendar:
 

@@ -43,7 +43,15 @@
     "No history": "Brak histori",
 
     "Are you sure you want to delete this item?": "Czy jestes pewnien ze chcesz usunąć to zadanie?",
-    "\"Valid from\" date cannot be later than \"Valid to\" date.": "Data „Ważne od” nie może być późniejsza niż data „Ważne do”."
+    "\"Valid from\" date cannot be later than \"Valid to\" date.": "Data „Ważne od” nie może być późniejsza niż data „Ważne do”.",
+
+	"Password": "Hasło",
+    "Confirm Password": "Potwierdź hasło",
+    "Already registered?": "Masz już konto",
+    "Register": "Zarejestruj",
+    "Remember me": "Zapamiętaj mnie",
+    "Forgot your password?": "Zapomniałeś hasła?",
+    "Log in": "Zaloguj"
 
 
 

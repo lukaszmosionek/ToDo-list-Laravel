@@ -87,7 +87,7 @@ class Task extends Model
             $this->google_event_id = $createdEvent->id;
             $this->save();
         }catch(Exception $e){
-            dump($e->getMessage());
+            // dump($e->getMessage());
             Log::info($e->getMessage());
         }
     }
